@@ -20,34 +20,7 @@ The Hotel Booking System is a comprehensive application designed to manage hotel
 - **Database**: MySQL
 
 ## Installation
-
-### Prerequisites
-
-- Python 3.x
-- MySQL Server
-- Required Python libraries (e.g., mysql-connector-python, Tkinter)
-# Hotel Booking System
-
-## Project Overview
-
-The Hotel Booking System is a comprehensive application designed to manage hotel reservations efficiently. This system allows users to register, log in, and book rooms while managing customer details, room types, and pricing structures. It uses a MySQL database to store and retrieve data.
-
-## Features
-
-- **User Registration**: New users can register by providing necessary details.
-- **User Login**: Registered users can log in to access their booking functionalities.
-- **Room Booking**: Users can check room availability, book rooms, and calculate total costs including taxes.
-- **Customer Management**: Manage customer details like name, contact number, email, nationality, and address.
-- **Search Functionality**: Search for rooms based on specific criteria.
-- **Price Calculation**: Calculate total room costs based on room type and meal preferences.
-
-## Technology Stack
-
-- **Frontend**: Tkinter (for GUI)
-- **Backend**: Python
-- **Database**: MySQL
-
-## Installation
+Dowload zip file or clone this repository
 
 ### Prerequisites
 
