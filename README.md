@@ -20,7 +20,6 @@ The Hotel Booking System is a comprehensive application designed to manage hotel
 - **Database**: MySQL
 
 ## Installation
-Dowload zip file or clone this repository
 
 ### Prerequisites
 
