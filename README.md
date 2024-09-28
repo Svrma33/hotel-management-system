@@ -94,6 +94,6 @@ Key Features:
 **User Interface:** Provides a GUI for users to interact with the booking system.
 **Booking Process:** Integrates functions from hotel.py and customer.py to facilitate room bookings.
 ### Usage
-After launching the application, users can register or log in.
+After launching the `login.py`, users can register or log in.
 Navigate through the options to book a room, view customer details, or calculate pricing based on selected options.
 Follow on-screen instructions to complete bookings.
