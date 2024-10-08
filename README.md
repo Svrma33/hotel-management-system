@@ -41,10 +41,6 @@ pip install mysql-connector-python
   login    - (`registernow`)
   users_db - (`users`)
   </pre>
-### 4. Run the application:
-```bash
-python room.py  # or the main entry file for the application
-```
 
 ### File Structure and Functionality
 <pre>hotel-booking-system/
