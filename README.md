@@ -37,7 +37,7 @@ pip install mysql-connector-python
 ### 3. Set up the MySQL database:
 - Create a database named `hotel_db`,`login`,`users_db`
 - Create necessary tables for:<pre>
-  hotel_db - (`customer`, `details`, `room`) ,
+  hotel_db - (`customer`, `details`, `room`)
   login    - (`registernow`)
   users_db - (`users`)
   </pre>
